@@ -1,4 +1,4 @@
-![logo](https://github.com/Qasim123-abbas/Qasim123-abbas/blob/main/ChatGPT%20Image%20Apr%2018%2C%202025%2C%2011_08_42%20PM.png)
+![logo](https://github.com/Qasim123-abbas/Qasim123-abbas/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Qasim Abbas</h1>
 <h3 align="center">A passionate and Aspiring Data Analyst from India!!!</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
